@@ -1,0 +1,9 @@
+Timestamp,Container,CPU_Percent,Memory_Usage
+2026-11-19 17:23:55,benchmarking-api,31.35%,61.85MiB / 3.718GiB
+2026-11-19 17:23:55,benchmarking-postgres,21.16%,45.96MiB / 3.718GiB
+2026-11-19 17:23:58,benchmarking-api,3.45%,61.85MiB / 3.718GiB
+2026-11-19 17:23:58,benchmarking-postgres,1.10%,45.98MiB / 3.718GiB
+2026-11-19 17:24:01,benchmarking-api,7.40%,61.73MiB / 3.718GiB
+2026-11-19 17:24:01,benchmarking-postgres,6.17%,46.01MiB / 3.718GiB
+2026-11-19 17:24:04,benchmarking-api,5.70%,61.73MiB / 3.718GiB
+2026-11-19 17:24:04,benchmarking-postgres,1.45%,46.04MiB / 3.718GiB
